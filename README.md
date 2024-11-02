@@ -1,16 +1,4 @@
-## Hi there 👋
-
-<!--
-**CarenMrikaria/CarenMrikaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on SheElevate project<br>👯 I’m looking to collaborate related to ASP.NET, React and Node.js<br>🤝 I’m looking for help with my SheElevate project <br>🌱 I’m currently learning about CI/CD<br>💬 Ask me about back-end related questions especially C#<br>⚡ Fun fact I am a car girl
 
 
@@ -37,6 +25,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=CarenMrikaria&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
